@@ -1,7 +1,7 @@
 package ntou.cs.java2021.ex6;
 
 public class Player {
-	private String firstName;
+	private String sirName;
 	private String lastName;
 	private long salary;
 
